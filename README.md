@@ -7,31 +7,6 @@ O projeto utiliza **Python**, **Pandas**, **Matplotlib**, **Seaborn**, **Folium*
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-📦 automobile-recession-analysis
-│
-├── 📊 Part 1 – Visualizations
-│   ├── Line_Plot_1.png
-│   ├── Bubble_Plot.png
-│   ├── Pie_Recession_vs_Normal.png
-│   ├── Pie_Ad_by_VehicleType.png
-│   ├── ...
-│   └── DV0101EN-Final-Assign-Part1.ipynb
-│
-├── 📈 Part 2 – Dash Dashboard
-│   ├── app.py
-│   └── assets/
-│
-├── README.md
-└── requirements.txt
-```
-
-*(Posso gerar o requirements.txt automaticamente se quiser.)*
-
----
-
 ## 🧠 Objetivo Geral
 
 Analisar o comportamento das vendas de automóveis da XYZAutomotives durante diferentes períodos históricos de recessão e comunicar os achados por meio de gráficos e dashboards interativos.
